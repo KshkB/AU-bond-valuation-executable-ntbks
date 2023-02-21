@@ -5,6 +5,7 @@ This repository contains Python scripts and executable (Jupyter) notebooks which
 - `AU_eTB_ntbk` generates valuation metrics for exchange traded treasury bonds (eTBs);
 - `AU_eTIB_ntbk` generates valuation metrics for exchange traded, *inflation protected* treasury bonds (eTIBs).
 
+Open these notebooks, uncomment and run the code blocks to generate desired analytics.
 
 ## Requirements
 
